@@ -1,0 +1,107 @@
+{
+  "defaultSeo": {
+    "title": "Hrithika R | Front-end developer",
+    "description": "Hrithika R is a front-end developer, experienced in creating beautiful and functional websites and web applications.",
+    "url": "",
+    "previewImage": ""
+  },
+  "heroData": {
+    "greetings": "HELLO, ",
+    "introduction": "I'm Hrithika R",
+    "role": "Front-end Developer",
+    "paragraph": "Passionate about coding, and making my client ideas come true.",
+    "button1": "Check my work",
+    "button2": "Contact me"
+  },
+  "aboutData": {
+    "aboutTitle": "About me",
+    "aboutItems": [
+      "I'm a front-end developer based in Spring, Texas.",
+      "I like to design and build beautiful and functional websites and web applications, taking special care to produce clear and understandable code.",
+      "I love teamwork and good communication, always open to feedback and willing to learn new things.",
+      "In my free time I like to play the guitar, read a good book or play videogames."
+    ],
+    "resumeTitle": "Resumé",
+    "resumeParagraph": "You can check my resumé in the link below.",
+    "resumeButton": "Resumé",
+    "resumeLink": "/resume/resume-en.pdf",
+    "skillsTitle": "Skills"
+  },
+  "portfolioData": {
+    "portfolioTitle": "Portfolio",
+    "projects": [
+      {
+        "name": "Loaner",
+        "projectUrl": "https://github.com/Hash-Debug",
+        "repoUrl": "https://github.com/Hash-Debug",
+        "imgPath": "projectMedia/loaner.png",
+        "imgAlt": "Loaner",
+        "summary": "Loan Application",
+        "keyFeatures": [
+          "User-friendly",
+          "Realtime Database",
+          "Brand customization",
+          "Paid subscriptions"
+        ],
+        "technologies": ["React", "Firebase", "Material-UI"]
+      },
+      {
+        "name": "Loaner",
+        "projectUrl": "https://github.com/Hash-Debug",
+        "repoUrl": "https://github.com/Hash-Debug",
+        "imgPath": "projectMedia/loaner.png",
+        "imgAlt": "Loaner",
+        "summary": "Loan Application",
+        "keyFeatures": [
+          "User-friendly",
+          "Realtime Database",
+          "Brand customization",
+          "Paid subscriptions"
+        ],
+        "technologies": ["React", "Firebase", "Material-UI"]
+      },
+      {
+        "name": "Loaner",
+        "projectUrl": "https://github.com/Hash-Debug",
+        "repoUrl": "https://github.com/Hash-Debug",
+        "imgPath": "projectMedia/loaner.png",
+        "imgAlt": "Loaner",
+        "summary": "Loan Application",
+        "keyFeatures": [
+          "User-friendly",
+          "Realtime Database",
+          "Brand customization",
+          "Paid subscriptions"
+        ],
+        "technologies": ["React", "Firebase", "Material-UI"]
+      },
+      {
+        "name": "Loaner",
+        "projectUrl": "https://github.com/Hash-Debug",
+        "repoUrl": "https://github.com/Hash-Debug",
+        "imgPath": "projectMedia/loaner.png",
+        "imgAlt": "Loaner",
+        "summary": "Loan Application",
+        "keyFeatures": [
+          "User-friendly",
+          "Realtime Database",
+          "Brand customization",
+          "Paid subscriptions"
+        ],
+        "technologies": ["React", "Firebase", "Material-UI"]
+      }
+      
+    ]
+  },
+  
+  "contactData": {
+    "title": "Contact",
+    "p1": "If you are interested in hiring me for your project please use the form below to get in touch. Want to know how I work and what I can offer? Check out my ",
+    "p2": "portfolio",
+    "p3": " and ",
+    "p4": "resumé",
+    "resumeLink": "/resume/resume-en.pdf",
+    "subtitle": "You can also find me on the following channels",
+    "formTitle": "Get in touch"
+  }
+}

@@ -65,7 +65,7 @@ export default function Contact({
     firstName: Yup.string().required(t.requiredErrorMessage),
     lastName: Yup.string().required(t.requiredErrorMessage),
     email: Yup.string()
-      .email(t.invalidEmailErrorMessage)
+      .email("Invalid")
       .required(t.requiredErrorMessage),
   });
 
